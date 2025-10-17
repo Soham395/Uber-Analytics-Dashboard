@@ -34,7 +34,7 @@ This project demonstrates my ability to:
 - 🎨 Design Consistency: Modern dark theme with clear hierarchy and contrast
   
 - 🧮 Interactive Filters: Explore by date, vehicle type, ride status, and payment method
-- 
+  
 - 💡 Data Cleaning: Replaced nulls with “Unknown” for better integrity and readability  
 
 
