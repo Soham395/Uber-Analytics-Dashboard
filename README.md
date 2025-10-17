@@ -65,7 +65,6 @@ It’s where the dashboard transitions from analysis to action.
 | **Power Query** | Data cleaning and transformation |
 | **DAX** | Custom measures, KPIs, and conditional logic |
 | **CSV (Raw Data)** | Source file containing Uber ride records |
-| **Canva / Power BI formatting** | Visual theme and layout |
 
 
 
